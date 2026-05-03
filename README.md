@@ -321,7 +321,6 @@ Investigación y administración de sistemas Linux.
 | Idioma | Nivel |
 |--------|-------|
 | 🇪🇸 Español | Nativo |
-| 🇮🇹 Italiano | Nativo |
 | 🇬🇧 Inglés | Profesional |
 
 ---
