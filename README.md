@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Antonio%20Cristian%20Regina&fontSize=42&fontColor=f0f6fc&fontAlignY=35&desc=Telecommunications%20Engineer%20%7C%20Software%20Developer%20%7C%20AI%20Specialist&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Antonio%20Cristian%20Regina%20Puccini&fontSize=42&fontColor=f0f6fc&fontAlignY=35&desc=Telecommunications%20Engineer%20%7C%20Software%20Developer%20%7C%20AI%20Specialist&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
 
 
 <!-- Typing Animation -->
