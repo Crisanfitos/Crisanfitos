@@ -3,10 +3,12 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Antonio%20Cristian%20Regina&fontSize=42&fontColor=f0f6fc&fontAlignY=35&desc=Telecommunications%20Engineer%20%7C%20Software%20Developer%20%7C%20AI%20Specialist&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
 
+
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Ingeniero+de+Telecomunicaciones+%26+ADE+%F0%9F%93%A1;AI+%7C+Full+Stack+%7C+Mobile+%7C+Clean+Architecture+%F0%9F%9A%80;Transformando+tecnolog%C3%ADa+en+valor+de+negocio+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Ingeniero+de+Telecomunicaciones+%26+ADE+%F0%9F%93%A1;AI+%7C+Full+Stack+%7C+Mobile+%7C+Clean+Architecture+%F0%9F%9A%80;Transformando+tecnolog%C3%ADa+en+valor+de+negocio+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <br/>
+
 
 <!-- Profile Views & Social Badges -->
 <p>
